@@ -6,16 +6,15 @@
   
   <br/>
   <div>
-    <img align="left" src = https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical/>
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125"/>
+    <img align="left" src = "https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical" style = "width: 40%"/>
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125" style = "width: 40%"/>
   </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
-  <br/><br/><br/><br/><br/><br/><br/><br/>
   <div>
-    <b>🏫[Kyonggi Univ.]</b>   
-    2019.03 -   
-    Computer Engineering  
+    <b>🏫[Kyonggi Univ.]</b><br/>
+    2019.03 -   <br/>
+    Computer Engineering  <br/>
   
 
 
