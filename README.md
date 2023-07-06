@@ -11,11 +11,11 @@
   </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
-
+<br/><br/><br/><br/><br/><br/><br/><br/>
   <div>
-    <b>🏫[Kyonggi Univ.]</b>
-    <p>2019.03 -  </p>
-    <p></p>Computer Engineering </p> 
+    <b>🏫[Kyonggi Univ.]</b>   
+    2019.03 -   
+    Computer Engineering  
   
 
 
