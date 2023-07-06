@@ -11,9 +11,12 @@
   </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
-  **🏫[Kyonggi Univ.]**  
-  2019.03 -  
-  **Computer Engineering**  
+
+  <div>
+    <b>🏫[Kyonggi Univ.]</b>
+    <p>2019.03 -  </p>
+    <p></p>Computer Engineering </p> 
+  
 
 
   <br/>
@@ -27,6 +30,8 @@
   
   2023.03 -  
   **Chairman & Android Developer**  
+  
+  </div>
   
   ---
   
