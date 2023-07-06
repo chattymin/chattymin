@@ -6,8 +6,8 @@
   
   <br/>
   <div>
-    <img align="left" src = "https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical" style = "width: 40%"/>
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125" style = "width: 40%"/>
+    <img align="left" src = "https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical" style = "width: 45%"/>
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125" style = "width: 45%"/>
   </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
