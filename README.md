@@ -1,7 +1,7 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HI👋🏻%20%20I'M%20%20chattymin!&fontAlign=70&height=300&fontSize=50&animation=twinkling)
-  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HI👋🏻%20%20I'M%20%20chattymin!-nl-AndroidDeveloper&fontAlign=70&height=300&fontSize=50&animation=twinkling)
+
   ---
   
   <br/>
