@@ -12,7 +12,7 @@
   
   ---
   <div>
-    <b>🏫[Kyonggi Univ.]</b><br/>
+    <a href="https://www.kyonggi.ac.kr/www/index.do"><b>🏫[Kyonggi Univ.]</b><br/></a> 
     2019.03 -   <br/>
     Computer Engineering  <br/>
   
