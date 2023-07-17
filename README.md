@@ -6,9 +6,10 @@
   
   <br/>
   <div>
-    <img align="left" src = "https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical" style = "width: 45%"/>
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125" style = "width: 45%"/>
-  </div><br/><br/><br/><br/><br/><br/><br/><br/>
+    <img align="left" src = "https://github-readme-stats.vercel.app/api?username=chattymin&show_icons=true&theme=radical" width="45%" height="200px"/>  
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdm001125" width="45%" height="200px"/>
+  </div> 
+  <br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
   <div>
@@ -33,8 +34,17 @@
   </div>
   
   ---
-  
+  🏆 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려-9cf)](https://github.com/InhaHackathon) 🏆  
   <div>
+    <br/><div><b>✍️ SKILLS ✍️</b></div>
+      <br/>
+        <div>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+        <br/>
+        <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+      </div><br/><br/>
       <div><b>✉️EMAIL✉️</b></div>
       <br/>
       <div>
@@ -47,15 +57,6 @@
         <a href="https://naemamdaelo.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
         <a href="https://www.instagram.com/dongs_1125/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
         <a href=https://play.google.com/store/apps/developer?id=Chattymin> <img src="https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white"/></a>
-      </div><br/><br/>
-      <div><b>✍️ SKILLS ✍️</b></div>
-      <br/>
-        <div>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-        <br/>
-        <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
       </div><br/><br/>
   </div>
   
