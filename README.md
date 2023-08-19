@@ -34,7 +34,7 @@
   </div>
   
   ---
-  🏆 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려-9cf)](https://github.com/InhaHackathon) 🏆  
+  🏆 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)  [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 🏆
   <div>
     <br/><div><b>✍️ SKILLS ✍️</b></div>
       <br/>
