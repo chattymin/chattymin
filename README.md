@@ -14,8 +14,8 @@
   ---
   <div>
     <a href="https://www.kyonggi.ac.kr/www/index.do"><b>🏫[Kyonggi Univ.]</b><br/></a> 
-    2019.03 -   <br/>
-    Computer Engineering  <br/>
+    2019.03 - Computer Engineering  
+    <br/>
   
 
 
@@ -25,40 +25,29 @@
     <a href="https://github.com/KGU-C-Lab"><b>[C-Lab]</b></a> 
   </div>
  
-  2022.03 - 2023.02  
-  **Admin & Android Developer**  
-  
-  2023.03 -  
-  **Chairman & Android Developer**  
+  2022.03 - 2023.02 : **Admin & Android Developer**  
+  2023.03 - : **Chairman & Android Developer**  
   
   </div>
   
   ---
-  🏆 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)  [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 🏆
-  <div>
-    <br/><div><b>✍️ SKILLS ✍️</b></div>
-      <br/>
-        <div>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/coil-000000?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-        <br/>
-        <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-      </div><br/><br/>
-      <div><b>✉️EMAIL✉️</b></div>
-      <br/>
-      <div>
-        <a href="mailto:pdm001125@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
-        <a href="mailto:pdm001125@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:swarvy0826@naver.com"/></a>
-      </div><br/><br/>
-      <div><b>🌏SOCIAL🌏</b></div>
-      <br/>
-      <div>
-        <a href="https://naemamdaelo.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-        <a href="https://www.instagram.com/dongs_1125/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-        <a href=https://play.google.com/store/apps/developer?id=Chattymin> <img src="https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white"/></a>
-      </div><br/><br/>
-  </div>
+  🏆**AWARDS**🏆  
+  [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-fff)](https://github.com/Don-tEuhRa)   
+  [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)   
+
+  ✍️**SKILLS**✍️  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/coil-000000?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
+
+  ✉️**EMAIL**✉️  
+  <a href="mailto:pdm001125@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
+  <a href="mailto:pdm001125@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:swarvy0826@naver.com"/></a>
+
+  🌏**SOCIAL**🌏  
+  <a href="https://naemamdaelo.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+        <a href="https://www.instagram.com/dongs_1125/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://play.google.com/store/apps/developer?id=Chattymin"> <img src="https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white"/></a>
+  
   
   ---
   
