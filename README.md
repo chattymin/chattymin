@@ -25,8 +25,8 @@
     <a href="https://github.com/KGU-C-Lab"><b>[C-Lab]</b></a> 
   </div>
  
-  2022.03 - 2023.02 : **Admin & Android Developer**  
-  2023.03 - : **Chairman & Android Developer**  
+  2022.03 - 2023.02 : **Officer & Android Developer**  
+  2023.03 - : **President & Android Developer**  
   
   </div>
   
