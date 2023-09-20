@@ -27,7 +27,14 @@
  
   2022.03 - 2023.02 : **Officer & Android Developer**  
   2023.03 - : **President & Android Developer**  
-  
+
+
+  <div style="display: flex; align-items: center; text-align: center;">
+    <img src="https://github.com/chattymin/chattymin/assets/52882799/21006940-3c27-4123-8122-2de472fd14f2" style="width:25px; align-items: center;"/>
+    <a href="https://www.sopt.org"><b>[SOPT]</b></a> 
+  </div>
+ 
+  2023.09.20 - : **33th Android Part**  
   </div>
   
   ---
