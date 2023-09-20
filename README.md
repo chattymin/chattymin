@@ -34,28 +34,34 @@
     <a href="https://www.sopt.org"><b>[SOPT]</b></a> 
   </div>
  
-  2023.09.20 - : **33th Android Part**  
+  2023.09 - : **33th Android Part**  
   </div>
   
   ---
   🏆**AWARDS**🏆  
   [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌5-최우수상-fff)](https://github.com/Don-tEuhRa)   
   [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)     
-
+  <br/>
+  
   💪**Strong SKILLS**💪  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
 <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/coil-000000?style=for-the-badge&logo=square&logoColor=white">   
+<br/>
 
   📕**Knowledgeable SKILLS**📕  
   <img src="https://img.shields.io/badge/C Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<br/>
 
   ⚒️**TOOLS**⚒️  
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">   
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">   
+<br/>
 
   ✉️**EMAIL**✉️  
   <a href="mailto:pdm001125@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
   <a href="mailto:pdm001125@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:swarvy0826@naver.com"/></a>
+<br/>
 
   🌏**SOCIAL**🌏  
   <a href="https://naemamdaelo.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
