@@ -34,7 +34,7 @@
     <a href="https://www.sopt.org"><b>[SOPT]</b></a> 
   </div>
  
-  2023.09 - : **33th Android Part**  
+  2023.09 - : **33th Android YB**  
   </div>
   
   ---
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/coil-000000?style=for-the-badge&logo=square&logoColor=white">   
 <br/>
 
-  📕**Knowledgeable SKILLS**📕  
+  📕**KNOWLEDGEABLE SKILLS**📕  
   <img src="https://img.shields.io/badge/C Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br/><br/>
