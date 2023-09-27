@@ -43,7 +43,7 @@
   [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)     
   <br/>
   
-  💪**Strong SKILLS**💪  
+  💪**STRONG SKILLS**💪  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
 <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"> <img src="https://img.shields.io/badge/coil-000000?style=for-the-badge&logo=square&logoColor=white">   
 <br/>
