@@ -34,7 +34,7 @@
     <a href="https://www.sopt.org"><b>[SOPT]</b></a> 
   </div>
  
-  2023.09 - : **33th Android YB**  
+  2023.09 - : **33rd Android YB**  
   </div>
   
   ---
