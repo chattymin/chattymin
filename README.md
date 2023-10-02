@@ -25,8 +25,8 @@
     <a href="https://github.com/KGU-C-Lab"><b>[C-Lab]</b></a> 
   </div>
  
-  2022.03 - 2023.02 : **Officer & Android Developer**  
-  2023.03 - : **President & Android Developer**  
+  2022.03 - 2023.02 : **Management Team**  
+  2023.03 - : **President**  
 
 
   <div style="display: flex; align-items: center; text-align: center;">
@@ -34,7 +34,7 @@
     <a href="https://www.sopt.org"><b>[SOPT]</b></a> 
   </div>
  
-  2023.09 - : **33rd Android YB**  
+  2023.09 - : **33rd Android YB &  Management Team**  
   </div>
   
   ---
