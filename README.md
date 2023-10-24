@@ -39,7 +39,7 @@
   
   ---
   🏆**AWARDS**🏆  
-  [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌5-최우수상-fff)](https://github.com/Don-tEuhRa)   
+  [![소개딩](https://img.shields.io/badge/제10회%20SW%20개발보안%20해커톤-최우수상-fff)](https://github.com/Don-tEuhRa)   
   [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)     
   <br/>
   
