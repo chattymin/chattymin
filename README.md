@@ -69,11 +69,12 @@
   
   
   ---
-  
+[![wakatime](https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg)](https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33)
   <br/>
   <div align="center">
       <div><b>⭐️HITS⭐️</b></div>
       <br/>
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchattymin&count_bg=%23B9DBFF&title_bg=%238FBEFF&icon=apachespark.svg&icon_color=%23E7E7E7&title=Thanks+to+visit+%3A%29&edge_flat=false"/></a>
+    <a href="https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33"><img src="https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg" alt="Total time coded since Oct 26 2023" /></a>
   </div>
 </div>
