@@ -10,7 +10,7 @@
 
 ## 🏆 Awards
 [![갭이어](https://img.shields.io/badge/경기청년%20갭이어%20프로그램%20-장려상-ddd)](https://github.com/Don-tEuhRa)   
-[![소개딩](https://img.shields.io/badge/제10회%20SW%20개발보안%20해커톤-최우수상-fff)](https://github.com/Don-tEuhRa)   
+[![소개딩](https://img.shields.io/badge/제10회%20SW%20개발보안%20해커톤-최우수상-ac5)](https://github.com/Don-tEuhRa)   
 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)     
 
 ## 🎁 Experience
