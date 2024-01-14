@@ -1,5 +1,6 @@
 
-[![Tstroy](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com)
+[![Tstroy](https://img.shields.io/badge/개인Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com)
+[![Tstroy](https://img.shields.io/badge/TeamTistory-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/)
 [![PlayStore](https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white)](https://play.google.com/store/apps/developer?id=Chattymin)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchattymin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg)](https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33)   
