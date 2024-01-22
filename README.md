@@ -1,6 +1,6 @@
 
-[![Tstroy](https://img.shields.io/badge/개인Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com)
-[![Tstroy](https://img.shields.io/badge/TeamTistory-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/)
+[![Tstroy](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com)
+[![Tstroy](https://img.shields.io/badge/doorip-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/)
 [![PlayStore](https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white)](https://play.google.com/store/apps/developer?id=Chattymin)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchattymin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg)](https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33)   
@@ -16,12 +16,13 @@
 
 ## 🎁 Experience
 <img src="https://github.com/chattymin/chattymin/assets/52882799/e37c3b74-9d2a-443e-833f-a9e63a290166" width="30" height="30"/> [SOPT](https://www.sopt.org)   
-2023.09 - : **33rd Android YB &  Management Team**  
-2023.11.25 - 2023.11.26 : **[Sopkathon 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)**   
+23.09 - : **33rd Android YB &  Management Team**  
+23.11.25 - 23.11.26 : **[Sopkathon 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)**   
+23.12.17 - 24.01.21 : **[APPJAM 대상](https://github.com/Team-Going)**   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/880f985c-09b2-4aec-a922-cfd8ff2e27f9" width="30" height="30"/> [C-Lab](https://www.clab.page/)   
-2022.03 - 2023.02 : **Management Team**  
-2023.03 - : **President**  
+22.03 - 23.02 : **Management Team**  
+23.03 - 24.02 : **President**  
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/f9ce708e-4269-426b-a26c-68c351333022" width="30" height="30"/> [Kyonggi Univ.](https://www.kyonggi.ac.kr/www/index.do)   
-2019.03 - Computer Engineering  
+19.03 - Computer Engineering  
