@@ -7,7 +7,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
 ## 🏆 Awards
 [![갭이어](https://img.shields.io/badge/경기청년%20갭이어%20프로그램%20-장려상-ddd)](https://github.com/plandamoa)   
