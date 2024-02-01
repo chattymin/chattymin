@@ -1,7 +1,4 @@
-
-[![Tstroy](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com)
-[![Tstroy](https://img.shields.io/badge/doorip-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/)
-[![PlayStore](https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white)](https://play.google.com/store/apps/developer?id=Chattymin)   
+### 👋 소통의 가치를 아는 개발자 박동민입니다    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchattymin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg)](https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33)   
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
@@ -25,3 +22,8 @@
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/f9ce708e-4269-426b-a26c-68c351333022" width="30" height="30"/> [Kyonggi Univ.](https://www.kyonggi.ac.kr/www/index.do)   
 19.03 - **Computer Engineering**  
+
+## 🖥️ Social
+[![Tstroy](https://img.shields.io/badge/개인블로그-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com) 
+[![Tstroy](https://img.shields.io/badge/doorip팀블로그-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/) 
+[![PlayStore](https://img.shields.io/badge/GooglePlayStore-4285F4?style=flat-square&logo=googlepay&logoColor=white)](https://play.google.com/store/apps/developer?id=Chattymin)   
