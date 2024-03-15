@@ -11,17 +11,24 @@
 [![먹어요](https://img.shields.io/badge/2023%20INHA%20SW%20NET%20Zero%20공동해커톤-장려상-9cf)](https://github.com/InhaHackathon)     
 
 ## 🎁 Experience
+<img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="30" height="30"/> [SOPT makers](https://makers.sopt.org/)   
+**4th Android Chapter Lead & App Team & Organizer** (24.02 - )   
+</br>
+
 <img src="https://github.com/chattymin/chattymin/assets/52882799/e37c3b74-9d2a-443e-833f-a9e63a290166" width="30" height="30"/> [SOPT](https://www.sopt.org)   
-23.09 - 24.01 : **33rd Android YB &  Management Team 수료**  
-23.11.25 - 23.11.26 : **[Sopkathon 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)**   
-23.12.17 - 24.01.21 : **[APPJAM 대상](https://github.com/Team-Going)**   
+**33rd Android YB &  Management Team** (23.09 - 24.01)   
+- [Sopkathon **최우수상**](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)   
+- [APPJAM **대상**](https://github.com/Team-Going)   
+</br>
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/880f985c-09b2-4aec-a922-cfd8ff2e27f9" width="30" height="30"/> [C-Lab](https://www.clab.page/)   
-22.03 - 23.02 : **Management Team**  
-23.03 - 24.02 : **President**  
+**Management Team** (22.03 - 23.02)  
+**President**(23.03 - 24.02)  
+</br>
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/f9ce708e-4269-426b-a26c-68c351333022" width="30" height="30"/> [Kyonggi Univ.](https://www.kyonggi.ac.kr/www/index.do)   
-19.03 - **Computer Engineering**  
+**Computer Engineering** (19.03 - )  
+</br>
 
 ## 🖥️ Social
 [![Tstroy](https://img.shields.io/badge/개인블로그-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com) 
