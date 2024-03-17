@@ -30,14 +30,17 @@
 ## 💪 Project
 - 서로를 이해하며 완성해가는 우리의 여행 To-Do, **doorip** (23.12 - )
   - [Android Repository](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
+- 당신만의 AI 인테리어 디자이너, **이집내집** (23.03 - 23.07)
+  - [Android Repository](https://github.com/EzipNaezip/gd-app) & [Play Store(서버 중단)](https://play.google.com/store/apps/details?id=com.dongminpark.projectgd)
+</br>
+
+## 👑 Hackathon
 - 생각지도 못한 경험을 통해 잘 사는 건 무엇인지 다시 생각해볼 수 잇는 기회를 드려요, **좋데바라** (23.11)
   - [Android Repository](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)
 - 세상에서 가장 쉽고, 가치있고, 환경적인 기부 플랫폼, **Re:Born** (23.08)
   - [Android Repository](https://github.com/Don-tEuhRa/Android)
 - 유통기한 임박 식품 개인 거래 및 기부 플랫폼, **먹어요** (23.08)
   - [Android Repository](https://github.com/InhaHackathon/FoodMarketAndroid)
-- 당신만의 AI 인테리어 디자이너, **이집내집** (23.03 - 23.07)
-  - [Android Repository](https://github.com/EzipNaezip/gd-app) & [Play Store(서버 중단)](https://play.google.com/store/apps/details?id=com.dongminpark.projectgd)
 </br>
 
 ## 🖥️ Social
