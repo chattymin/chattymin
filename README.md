@@ -16,8 +16,6 @@
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/e37c3b74-9d2a-443e-833f-a9e63a290166" width="30" height="30"/> [SOPT](https://www.sopt.org)   
 **33rd Android YB &  Management Team** (23.09 - 24.01)   
-- [Sopkathon **최우수상**](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)   
-- [APPJAM **대상**](https://github.com/Team-Going)   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/880f985c-09b2-4aec-a922-cfd8ff2e27f9" width="30" height="30"/> [C-Lab](https://www.clab.page/)   
 **Management Team** (22.03 - 23.02)  
