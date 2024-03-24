@@ -8,8 +8,8 @@
 
 ### **🏆 Awards**
 - [경기청년 갭이어 프로그램 - 재단대표이사상 장려상](https://github.com/plandamoa)
-- [DO SOPT Appjam - 대상](https://github.com/Team-Going)   
-- [DO SOPT Sopkathon - 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)
+- [SOPT 33rd Appjam - 대상](https://github.com/Team-Going)   
+- [SOPT 33rd Sopkathon - 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)
 - [제 10회 SW 개발보안 해커톤 소개딩 - 행정안전부장관상 최우수상](https://github.com/Don-tEuhRa)   
 - [2023 INHA NET Zero 공동해커톤 - 장려상](https://github.com/InhaHackathon)     
 </br>
