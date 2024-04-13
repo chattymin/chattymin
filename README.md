@@ -19,7 +19,7 @@
 - **4th Android Chapter Lead & App Team & Organizer** (24.02 - )   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="30" height="30"/> [SOPT](https://www.sopt.org)   
-- **34nd Android OB** (24.03 - )
+- **34th Android OB** (24.03 - )
 - **33rd Android YB &  Management Team** (23.09 - 24.01)   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/880f985c-09b2-4aec-a922-cfd8ff2e27f9" width="30" height="30"/> [C-Lab](https://www.clab.page/)   
