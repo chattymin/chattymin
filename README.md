@@ -32,6 +32,8 @@
 </br>
 
 ### **💪 Project**
+- SOPT Official Android App, **SOPT** (24.03 - )
+  - [Android Repository](https://github.com/sopt-makers/sopt-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.official)
 - 서로를 이해하며 완성해가는 우리의 여행 To-Do, **doorip** (23.12 - )
   - [Android Repository](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 - 당신만의 AI 인테리어 디자이너, **이집내집** (23.03 - 23.07)
