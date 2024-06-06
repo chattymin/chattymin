@@ -18,6 +18,10 @@
 - [2023 INHA NET Zero 공동해커톤 - 장려상](https://github.com/InhaHackathon)     
 </br>
 
+## **👊 Contribute**
+- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
+</br>
+
 ## **🎁 Experience**
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="30" height="30"/> [SOPT makers](https://makers.sopt.org/)   
 - **4th Android Chapter Lead & App Team & Organizer** <sub><sup>2024.02 - </sup></sub>   
