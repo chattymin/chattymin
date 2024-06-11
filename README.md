@@ -22,6 +22,11 @@
 - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 </br>
 
+## **📢 Speaker**
+- DroidKnight 2024 Lightning Talk
+  - [발표자료](https://speakerdeck.com/chattymin/2024-droidknight-lightningtalk)
+</br>
+
 ## **🎁 Experience**
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="30" height="30"/> [SOPT makers](https://makers.sopt.org/)   
 - **4th Android Chapter Lead & App Team & Organizer** <sub><sup>2024.02 - </sup></sub>   
