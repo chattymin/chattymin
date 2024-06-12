@@ -24,7 +24,7 @@
 
 ## **📢 Speaker**
 - DroidKnight 2024 Lightning Talk
-  - [발표자료](https://speakerdeck.com/chattymin/2024-droidknight-lightningtalk)
+  - **Emoji부터 Java까지** ([발표자료](https://speakerdeck.com/chattymin/2024-droidknight-lightningtalk)/[발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
 </br>
 
 ## **🎁 Experience**
