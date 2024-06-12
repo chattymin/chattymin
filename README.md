@@ -18,7 +18,7 @@
 - [2023 INHA NET Zero 공동해커톤 - 장려상](https://github.com/InhaHackathon)     
 </br>
 
-## **👊 Contribute**
+## **👊 Contribution**
 - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 </br>
 
