@@ -35,6 +35,7 @@
 - **34th Android OB** <sub><sup>2024.03 - </sup></sub>   
   - [Well Made Component](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-Well-Made-Component)
   - [DataBinding의 두얼굴](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-DataBinding%EC%9D%98-%EB%91%90-%EC%96%BC%EA%B5%B4)
+  - [Compose With State & SideEffect](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-%EB%AF%B8%EC%A0%95)
 - **33rd Android YB &  Management Team** <sub><sup>2023.09 - 2024.01</sup></sub>   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/880f985c-09b2-4aec-a922-cfd8ff2e27f9" width="30" height="30"/> [C-Lab](https://www.clab.page/)   
