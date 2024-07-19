@@ -39,4 +39,6 @@
 ### **💪 Project**
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3d14995f-d655-453e-9755-4a59a45ba1ad" width="20"/> **SOPT** - SOPT Official Android App ([Github](https://github.com/sopt-makers/sopt-android) / [Play Store](https://play.google.com/store/apps/details?id=org.sopt.official))
 
+<img src="https://github.com/user-attachments/assets/677d6f93-7066-4b0a-98e0-40245903a556" width=20 /> **한끼족보** - 대학생 모두가 함께 만드는 8000원 이하 식당 지도 ([Github](https://github.com/Team-Hankki/hankki-android))
+
 <img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=20 /> **doorip** - 서로를 이해하며 완성해가는 우리의 여행 To-Do ([Github](https://github.com/Team-Going/Going-Android) / [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip))
