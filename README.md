@@ -7,6 +7,7 @@
 
 
 ### **🏆 Awards**
+- [SOPT 34th Appjam - 대상](https://github.com/Team-Hankki)   
 - [경기청년 갭이어 프로그램 - 재단대표이사상 장려상](https://github.com/plandamoa)
 - [SOPT 33rd Appjam - 대상](https://github.com/Team-Going)   
 - [SOPT 33rd Sopkathon - 최우수상](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3)
