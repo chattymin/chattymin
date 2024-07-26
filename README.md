@@ -30,7 +30,7 @@
 - **4th Android Chapter Lead & App Team & Organizer** <sub><sup>2024.02 - </sup></sub>   
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="20"/> [SOPT](https://www.sopt.org)   
-- **34th Android OB** <sub><sup>2024.03 - </sup></sub>   
+- **34th Android OB** <sub><sup>2024.03 - 2024.07</sup></sub>   
   - [Well Made Component](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-Well-Made-Component)
   - [DataBinding의 두얼굴](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-DataBinding%EC%9D%98-%EB%91%90-%EC%96%BC%EA%B5%B4)
   - [Compose With State & SideEffect](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-%EB%AF%B8%EC%A0%95)
