@@ -31,7 +31,7 @@
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="20"/> [SOPT makers](https://makers.sopt.org/)   
 - **4th** <sub><sup>2024.02 - 2024.07</sup></sub>   
   - Android Chapter Lead
-  - App Team
+  - App Team Android Developer
   - Organizer
 
 <img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="20"/> [SOPT](https://www.sopt.org)   
