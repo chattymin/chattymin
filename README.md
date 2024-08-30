@@ -17,8 +17,8 @@
 </br>
 
 ### **👊 Contribution**
-- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 - [DroidKaigi/conference-app-2024](https://github.com/DroidKaigi/conference-app-2024/pull/293)
+- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 </br>
 
 ### **🚀 Activity**
