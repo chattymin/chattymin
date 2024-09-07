@@ -30,7 +30,7 @@
 ### **🎁 Experience**
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="20"/> [SOPT makers](https://makers.sopt.org/)   
 - **5th** <sub><sup>2024.08 - ing</sup></sub>   
-  - Deputy team leader
+  - Deputy Team Leader
   - App Team Android Developer
 - **4th** <sub><sup>2024.02 - 2024.07</sup></sub>   
   - Android Chapter Lead
