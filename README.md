@@ -52,3 +52,5 @@
 <img src="https://github.com/user-attachments/assets/677d6f93-7066-4b0a-98e0-40245903a556" width=20 /> **한끼족보** - 대학생 모두가 함께 만드는 8000원 이하 식당 지도 ([Github](https://github.com/Team-Hankki/hankki-android))
 
 <img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=20 /> **doorip** - 서로를 이해하며 완성해가는 우리의 여행 To-Do ([Github](https://github.com/Team-Going/Going-Android) / [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip))
+
+<img src="https://github.com/user-attachments/assets/37a4a9f2-2939-4937-a232-c45711f505f6" width=20 /> **STEMPO** - 청각 자극을 통한 뇌성마비 환자 보행 패턴 개선 서비스 ([Github](https://github.com/KKKK-Stempo/stempo-android))
