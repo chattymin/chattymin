@@ -8,6 +8,7 @@
 
 
 ### **🏆 Awards**
+- [2024 장애인 분야 해커톤 - 보건복지부 장관상 대상](https://github.com/KKKK-Stempo)
 - [SOPT 34th Appjam - 대상](https://github.com/Team-Hankki)   
 - [경기청년 갭이어 프로그램 - 재단대표이사상 장려상](https://github.com/plandamoa)
 - [SOPT 33rd Appjam - 대상](https://github.com/Team-Going)   
