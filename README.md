@@ -2,7 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchattymin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b6af5-b526-4585-90a3-a8dd3d9e5a33.svg)](https://wakatime.com/@018b6af5-b526-4585-90a3-a8dd3d9e5a33)   
 [![Tstroy](https://img.shields.io/badge/개인블로그-000000?style=flat-square&logo=tistory&logoColor=white)](https://naemamdaelo.tistory.com) 
-[![Tstroy](https://img.shields.io/badge/doorip팀블로그-FF4F11?style=flat-square&logo=tistory&logoColor=white)](https://teamgoinggoing.tistory.com/) 
 [![Tstroy](https://img.shields.io/badge/한끼족보팀블로그-FF4C25?style=flat-square&logo=tistory&logoColor=white)](https://teamhankki.tistory.com/) 
 </br>
 
