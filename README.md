@@ -30,7 +30,7 @@
 ### **🎁 Experience**
 <img src="https://github.com/chattymin/chattymin/assets/52882799/3eba4ad4-8e50-4e8e-b8b0-decf17aea2b2" width="20"/> [SOPT makers](https://makers.sopt.org/)   
 - **5th** <sub><sup>2024.08 - ing</sup></sub>   
-  - Deputy Team Leader
+  - 부팀장
   - App Team Android Developer
 - **4th** <sub><sup>2024.02 - 2024.07</sup></sub>   
   - Android Chapter Lead
@@ -43,7 +43,7 @@
   - **Android Part MVP**
 - **33rd DO SOPT** <sub><sup>2023.09 - 2024.01</sup></sub>   
   - **Android YB**
-  - Management Team
+  - 운영팀
 </br>
 
 ### **💪 Project**
