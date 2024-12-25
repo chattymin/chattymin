@@ -12,7 +12,7 @@
 
 
 ### **Experience**
-* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 5기 Android Chapter & 부팀장 <sub><sup>2024.08 - ing</sup></sub>   
+* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 5기 Android Chapter & 부팀장 <sub><sup>2024.08 - now</sup></sub>   
 * 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 4기 Android Chapter <sub><sup>2024.02 - 2024.07</sup></sub>   
 * 대학생 연합동아리 [SOPT](https://sopt.org/) 34기 Android 파트 <sub><sup>2023.09 - 2024.01</sup></sub>   
 * 대학생 연합동아리 [SOPT](https://sopt.org/) 33기 Android 파트 <sub><sup>2023.09 - 2024.01</sup></sub>   
