@@ -1,4 +1,4 @@
-### 안드로이드 하는 박동민입니다    
+### 안드로이드하는 박동민입니다    
 
 ### **Contribution**
 - [DroidKaigi/conference-app-2024](https://github.com/DroidKaigi/conference-app-2024/pull/293)
