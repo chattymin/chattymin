@@ -7,9 +7,9 @@
 
 ### **Activity**
 - [DroidKnight 2024](https://festa.io/events/4990) - **Lightning Talk Speaker**
-  - **Emoji부터 Java까지** ([발표자료](https://speakerdeck.com/chattymin/2024-droidknight-lightningtalk) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
+  - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
 - [UMC 7th 동아리 연합 컨퍼런스](https://umc.makeus.in/) - **Android Speaker**
-  - **명령형 vs 선언형, Compose는 미래일까?** ([발표자료](https://speakerdeck.com/chattymin/myeongryeonghyeong-vs-seoneonhyeong-composeneun-miraeilgga))
+  - **명령형 vs 선언형, Compose는 미래일까?** ([발표자료](https://drive.google.com/file/d/18GfK0DGhgBiZj_rkgFPkTeEt2LnDpqRo/view?usp=drive_link))
 
 ### **Experience**
 * [SOPT Makers](https://makers.sopt.org/) 5기 Android Chapter & 부팀장 <sub><sup>2024.08 - now</sup></sub>   
