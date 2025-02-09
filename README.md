@@ -12,7 +12,7 @@
   - **명령형 vs 선언형, Compose는 미래일까?** ([발표자료](https://drive.google.com/file/d/18GfK0DGhgBiZj_rkgFPkTeEt2LnDpqRo/view?usp=drive_link))
 
 ### **Experience**
-* [SOPT Makers](https://makers.sopt.org/) 5기 Android Chapter & 부팀장 <sub><sup>2024.08 - now</sup></sub>   
-* [SOPT Makers](https://makers.sopt.org/) 4기 Android Chapter <sub><sup>2024.02 - 2024.07</sup></sub>   
+* [SOPT Makers](https://makers.sopt.org/) 5기 Android Chapter & 부팀장 <sub><sup>2024.08 - 2024.02</sup></sub>   
+* [SOPT Makers](https://makers.sopt.org/) 4기 Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
 * [SOPT](https://sopt.org/) 34기 Android Part <sub><sup>2024.03 - 2024.07</sup></sub>   
 * [SOPT](https://sopt.org/) 33기 Android Part <sub><sup>2023.09 - 2024.01</sup></sub>   
