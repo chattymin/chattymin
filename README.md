@@ -1,9 +1,10 @@
 ### 안드로이드하는 박동민입니다    
 
-### **Contribution**
-- [DroidKaigi/conference-app-2024](https://github.com/DroidKaigi/conference-app-2024/pull/293)
-- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
+### **Open Source**
+- Maintainer - [Pebble](https://github.com/chattymin/Pebble)
 
+* Contributor - [DroidKaigi/conference-app-2024](https://github.com/DroidKaigi/conference-app-2024/pull/293)
+* Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 
 ### **Activity**
 - [DroidKnight 2024](https://festa.io/events/4990) - **Lightning Talk Speaker**
@@ -16,3 +17,6 @@
 * [SOPT Makers](https://makers.sopt.org/) 4기 Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
 * [SOPT](https://sopt.org/) 34기 Android Part <sub><sup>2024.03 - 2024.07</sup></sub>   
 * [SOPT](https://sopt.org/) 33기 Android Part <sub><sup>2023.09 - 2024.01</sup></sub>   
+
+### **Career**
+- [Buzzvil](https://www.buzzvil.com/) - Android Enginner <sub><sup>2025.02 - ing</sup></sub>
