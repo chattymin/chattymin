@@ -10,7 +10,7 @@
 * Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 
 ### **Speaker**
-- [DroidKnight 2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) - **Lightning Talk Speaker**
+- [DroidKnight 2024](https://www.droidknights.dev/) - **Lightning Talk Speaker**
   - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
 - [UMC 7th 동아리 연합 컨퍼런스](https://umc.makeus.in/) - **Android Speaker**
   - **명령형 vs 선언형, Compose는 미래일까?** ([발표자료](https://drive.google.com/file/d/18GfK0DGhgBiZj_rkgFPkTeEt2LnDpqRo/view?usp=drive_link))
