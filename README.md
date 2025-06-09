@@ -22,6 +22,7 @@
 
 
 ### **Experience**
+* [잇타 : IT’s TIME](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) 7th Development Seminar Android Mento <sub><sup>2025.05</sup></sub>   
 * [SOPT Makers](https://makers.sopt.org/) 5th Android Chapter & Sub Leader <sub><sup>2024.08 - 2024.02</sup></sub>   
 * [SOPT Makers](https://makers.sopt.org/) 4th Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
 * [SOPT](https://sopt.org/) 34th Android Part <sub><sup>2024.03 - 2024.07</sup></sub>   
