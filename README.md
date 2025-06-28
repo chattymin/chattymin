@@ -10,10 +10,12 @@
 * Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 
 ### **Speaker**
-- [DroidKnight 2024](https://www.droidknights.dev/) - **Lightning Talk Speaker**
-  - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
+- [잇타: It's Time ](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) - **현직자와의 만남**
+  - **"유지보수에 좋아요” 라고 말하는 순간 개발이 망한다** ([발표자료](https://drive.google.com/file/d/1ouwpL_XY0U91nN6l0cGbGTY81UI7QJoE/view?usp=sharing))
 - [UMC 7th 동아리 연합 컨퍼런스](https://umc.makeus.in/) - **Android Speaker**
   - **명령형 vs 선언형, Compose는 미래일까?** ([발표자료](https://drive.google.com/file/d/18GfK0DGhgBiZj_rkgFPkTeEt2LnDpqRo/view?usp=drive_link))
+- [DroidKnight 2024](https://www.droidknights.dev/) - **Lightning Talk Speaker**
+  - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
 - [SOPT Webinar](https://www.sopt.org/) - **Android Speaker**
   - **Well Made Component** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-Well-Made-Component))
   - **DataBinding의 두 얼굴** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-DataBinding%EC%9D%98-%EB%91%90-%EC%96%BC%EA%B5%B4))
