@@ -10,6 +10,8 @@
 * Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 
 ### **Speaker**
+- [UMC](https://umc.makeus.in/) - 8**th 동아리 연합 컨퍼런스**
+    - **개발자를 위한 개발자, SDK 개발 입문기** ([발표자료](https://drive.google.com/file/d/1FCTu4f-5mf43gr4ieCKwRLlx8VcmxXLQ/view?usp=sharing))
 - [잇타: It's Time ](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) - **현직자와의 만남**
   - **"유지보수에 좋아요” 라고 말하는 순간 개발이 망한다** ([발표자료](https://drive.google.com/file/d/1UfN5EtAxb_iD9Eup--qgEm7GCuXnF-zF/view?usp=drive_link))
 - [UMC](https://umc.makeus.in/) - **7th 동아리 연합 컨퍼런스**
