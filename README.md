@@ -26,9 +26,11 @@
 
 
 ### **Experience**
-* [SOPT](https://sopt.org/) 37th Android Part Lead <sub><sup>2025.07 - ing</sup></sub>   
-* [잇타 : IT’s TIME](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) 7th Development Seminar Android Mento <sub><sup>2025.05.31</sup></sub>   
-* [SOPT Makers](https://makers.sopt.org/) 5th Sub Leader & Android Chapter <sub><sup>2024.08 - 2024.02</sup></sub>   
-* [SOPT Makers](https://makers.sopt.org/) 4th Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
-* [SOPT](https://sopt.org/) 34th Android Part MVP <sub><sup>2024.03 - 2024.07</sup></sub>   
-* [SOPT](https://sopt.org/) 33rd Android Part <sub><sup>2023.09 - 2024.01</sup></sub>   
+* [SOPT](https://sopt.org/)
+  * 37th Android Part Lead <sub><sup>2025.07 - ing</sup></sub>   
+  * 34th Android Part MVP <sub><sup>2024.03 - 2024.07</sup></sub>   
+  * 33rd  Android  Part  <sub><sup>2023.09 - 2024.01</sup></sub>   
+* [SOPT Makers](https://makers.sopt.org/)
+  * 5th Sub Leader & Android Chapter <sub><sup>2024.08 - 2024.02</sup></sub>   
+  * 4th Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
+
