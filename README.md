@@ -27,9 +27,9 @@
 
 ### **Experience**
 * [SOPT](https://sopt.org/)
-  * 37th Android Part Lead <sub><sup>2025.07 - ing</sup></sub>   
+  * 37th Android Part Leader <sub><sup>2025.07 - 2026.01</sup></sub>   
   * 34th Android Part MVP <sub><sup>2024.03 - 2024.07</sup></sub>   
-  * 33rd  Android  Part  <sub><sup>2023.09 - 2024.01</sup></sub>   
+  * 33rd Android Part <sub><sup>2023.09 - 2024.01</sup></sub>   
 * [SOPT Makers](https://makers.sopt.org/)
   * 5th Sub Leader & Android Chapter <sub><sup>2024.08 - 2024.02</sup></sub>   
   * 4th Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
