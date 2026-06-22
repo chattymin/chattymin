@@ -17,11 +17,12 @@
     - 7th - 명령형 vs 선언형, Compose는 미래일까? ([발표자료](https://drive.google.com/file/d/18GfK0DGhgBiZj_rkgFPkTeEt2LnDpqRo/view?usp=drive_link))
 - [잇타: It's Time ](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) - 현직자와의 만남 **초청 연사**
   - **"유지보수에 좋아요” 라고 말하는 순간 개발이 망한다** ([발표자료](https://drive.google.com/file/d/1UfN5EtAxb_iD9Eup--qgEm7GCuXnF-zF/view?usp=drive_link))
-- [SOPT](https://www.sopt.org/) - **Webinar**
-  - **Well Made Component** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-Well-Made-Component))
-  - **DataBinding의 두 얼굴** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-DataBinding%EC%9D%98-%EB%91%90-%EC%96%BC%EA%B5%B4))
-  - **State와 SideEffect로 Compose를 관리해보자** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-%EB%AF%B8%EC%A0%95))
+- [SOPT](https://www.sopt.org/) - **Webinar & Seminar**
+  - **개발은 내가 할게. 디버깅은 누가 할래?** ([발표자료](https://drive.google.com/file/d/1uweZ25TxXt538SGH3QKVXN6T0_LE7Sim/view?usp=sharing))
   - **Navigation과 Stack 관리** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-35th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EC%97%B0%EC%82%AC-Navigation%EA%B3%BC-Stack-%EA%B4%80%EB%A6%AC))
+  - **State와 SideEffect로 Compose를 관리해보자** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-%EB%AF%B8%EC%A0%95))
+  - **DataBinding의 두 얼굴** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-DataBinding%EC%9D%98-%EB%91%90-%EC%96%BC%EA%B5%B4))
+  - **Well Made Component** ([발표자료](https://naemamdaelo.tistory.com/entry/SOPT-34th-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%8C%ED%8A%B8-%EB%AF%B8%EB%AF%B8%EB%82%98-Well-Made-Component))
 
 
 ### **Experience**
