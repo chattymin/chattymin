@@ -4,6 +4,7 @@
 - [Buzzvil](https://www.buzzvil.com/) - Android Enginner <sub><sup>2025.02 - ing</sup></sub>
 
 ### **Open Source**
+- Maintainer - [PokeTokenBar](https://github.com/chattymin/PokeTokenBar)
 - Maintainer - [Pebble](https://github.com/chattymin/Pebble)
 
 * Contributor - [DroidKaigi/conference-app-2024](https://github.com/DroidKaigi/conference-app-2024/pull/293)
