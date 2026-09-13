@@ -34,4 +34,5 @@
 * [SOPT Makers](https://makers.sopt.org/)
   * 5th Sub Leader & Android Chapter <sub><sup>2024.08 - 2024.02</sup></sub>   
   * 4th Android Chapter Lead <sub><sup>2024.02 - 2024.07</sup></sub>   
-
+* [잇타](https://www.instagram.com/its_stime_/)
+  * 7th 개발 세미나 Android Mentor <sub><sup>2025.05.31</sup></sub>   
