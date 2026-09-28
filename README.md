@@ -11,7 +11,7 @@
 * Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pulls?q=is%3Apr+assignee%3Achattymin+)
 
 ### **Speaker**
-- [DroidKnight 2026](https://www.droidknights.dev/)
+- [DroidKnight 2026](https://ticketa.co/event/2o8rdpls)
   - **쏟아지는 QA, AI로 살아남기** - 발표 예정
 - [DroidKnight 2024](https://www.droidknights.dev/) - **Lightning Talk Speaker** 
   - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
