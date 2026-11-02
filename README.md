@@ -12,7 +12,7 @@
 
 ### **Speaker**
 - [DroidKnight 2026](https://ticketa.co/event/2o8rdpls)
-  - **쏟아지는 QA, AI로 살아남기** - 발표 예정
+  - **쏟아지는 QA, AI로 살아남기** ([발표자료](https://drive.google.com/file/d/1WLfAmlko37xb4uvHZuDgeZDQX-fDoYRg/view?usp=sharing))
 - [DroidKnight 2024](https://www.droidknights.dev/) - **Lightning Talk Speaker** 
   - **Emoji부터 Java까지** ([발표자료](https://drive.google.com/file/d/1OYHN3FaLuDeTZfUV7BMKohniAx9V0h8L/view?usp=drive_link) / [발표영상](https://www.youtube.com/watch?v=8Daphck1LDE))
 - [UMC](https://umc.makeus.in/) - 동아리 연합 컨퍼런스 **초청 연사**
